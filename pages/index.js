@@ -12,8 +12,9 @@ const machineryData = [
   ["CVM 800/CNC Machine", "COSMOS", 1],
   ["CVM 640/CNC Machine", "COSMOS", 1],
   ["Milling Machine", "BFW", 3],
+  ["Turning Machine", "VICTOR", 1],
   ["Milling Machine", "HMT", 1],
-  ["Tapping Machines", "TAPAX, JYOTI", 3],
+  ["Tapping Machines", "TAPAX", 5],
   ["Drilling Machines", "WINDSON, SOHIT, ITCO, SIGMA, KM PANCHAL", 8],
   ["Grinding Machine", "RAYMOND", 2],
   ["Cutting Machine", "SIGMA", 1],
@@ -32,7 +33,7 @@ export default function Home() {
 
         <meta name="description" content="Gowtami Engineering Enterprises offers CNC machining, milling, and precision engineering in Hyderabad. Trusted industrial partner." />
         <meta name="robots" content="index, follow" />
-        <meta name="keywords" content="Gowtami Engineering, Gowtami Engineering Enterprises, CNC, Milling, precision machining, Gowtami Engineering Enterprises" />
+        <meta name="keywords" content="Gowtami Engineering, Gowtami Engineering Enterprises, CNC, Milling, Turning, precision machining, Gowtami Engineering Enterprises, Gowtami eng, Gowtami engineering" />
         <meta name="author" content="Gowtami Engineering Enterprises" />
         <meta property="og:title" content="Gowtami Engineering Enterprises" />
         <meta property="og:description" content="CNC machining and precision engineering company in Hyderabad." />
@@ -125,11 +126,11 @@ export default function Home() {
             {[
               {
                 title: "CNC Milling",
-                desc: "High-precision CNC milling services for a variety of industrial components.",
+                desc: "High-precision CNC milling services for creating complex parts with tight tolerances, ideal for industrial and engineering applications.",
               },
               {
-                title: "Custom Fabrication",
-                desc: "Tailor-made fabrication services to meet client specifications with accuracy.",
+                title: "Custom Fabrication , Conventinal Milling & Turning",
+                desc: "Tailor-made metal fabrication solutions crafted to meet client specifications with high accuracy and efficiency.",
               },
               {
                 title: "Drilling, Tapping & Assembling",
