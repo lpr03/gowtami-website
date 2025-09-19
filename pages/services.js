@@ -25,22 +25,16 @@ const services = [
       "Surface and edge grinding with RAYMOND equipment to ensure tight tolerances and high surface finish.",
   },
   {
-    title: "Cutting & Material Prep",
+    title: "Precision Cutting",
     description:
-      "High-efficiency cutting machine (SIGMA) to process raw materials as per custom job specifications.",
-  },
-  {
-    title: "Compressed Air Solutions",
-    description:
-      "On-site compressor (ANEST IWATA) for air-powered tool handling, cleaning, and dry machining processes.",
-  },
+    "Advanced cutting solutions with tight dimensional accuracy, ensuring clean edges and consistent quality across custom parts.",
+  }
 ];
 
 export default function ServicesPage() {
   return (
     <div>
       <Navbar />
-
       <main className="bg-gray-50 text-gray-800 min-h-screen">
         <section className="bg-[#636262] text-white py-20 px-6 text-center">
           <h1 className="text-4xl font-extrabold tracking-wide">Our Services</h1>

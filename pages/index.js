@@ -15,8 +15,8 @@ const machineryData = [
   ["Turning Machine", "VICTOR", 1],
   ["Milling Machine", "HMT", 1],
   ["Tapping Machines", "TAPAX", 5],
-  ["Drilling Machines", "WINDSON, SOHIT, ITCO, SIGMA, KM PANCHAL", 8],
-  ["Grinding Machine", "RAYMOND", 2],
+  ["Drilling Machines", "WINDSON, SOHIT, ITCO, SIGMA, KM PANCHAL", 10],
+  ["Grinding Machine", "RAYMOND", 4],
   ["Cutting Machine", "SIGMA", 1],
 ];
 
@@ -61,7 +61,6 @@ export default function Home() {
 </script>
 
       </Head>
-
       <Navbar />
 
       {/* Hero Section */}
