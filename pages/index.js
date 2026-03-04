@@ -128,7 +128,7 @@ export default function Home() {
                 desc: "High-precision CNC milling services for creating complex parts with tight tolerances, ideal for industrial and engineering applications.",
               },
               {
-                title: "Custom Fabrication , Conventinal Milling & Turning",
+                title: "Custom Fabrication, Conventinal Milling & Turning",
                 desc: "Tailor-made metal fabrication solutions crafted to meet client specifications with high accuracy and efficiency.",
               },
               {
