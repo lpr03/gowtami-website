@@ -28,6 +28,11 @@ const services = [
     title: "Precision Cutting",
     description:
     "Advanced cutting solutions with tight dimensional accuracy, ensuring clean edges and consistent quality across custom parts.",
+  },
+  {
+  title: "Auto Feeding Aluminium Profile Cutting",
+  description:
+    "Precision aluminium profile cutting using an automated feeding mechanism that enables continuous, high-volume production with accurate length control and uniform finish. Optimized for efficiency, reduced manual intervention, and consistent dimensional accuracy across batches.",
   }
 ];
 
